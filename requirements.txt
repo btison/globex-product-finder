@@ -1,0 +1,5 @@
+## Application specific 
+Flask
+gunicorn
+## Data Science libraries
+tensorflow
